@@ -34,14 +34,5 @@ html{
 }
 #start{color: pink; font-style:italic;font-family: cursive;}
 #end{color: pink;font-style:italic;font-family: cursive;}
-h2{
-  color: black;
-}
+#middle{color: pink; font-style:italic;font-family: cursive;font-size: 30px}
 
-#start{
-  text-align: left;
-}
-
-#end{
-  text-align: right;
-}
