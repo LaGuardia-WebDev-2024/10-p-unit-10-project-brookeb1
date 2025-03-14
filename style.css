@@ -32,7 +32,8 @@ html{
   object-fit: contain;
   border: 1px solid black;
 }
-
+#start{color: pink; font-style:italic;font-family: cursive;}
+#end{color: pink;font-style:italic;font-family: cursive;}
 h2{
   color: black;
 }
