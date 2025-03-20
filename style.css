@@ -27,20 +27,12 @@ html{
 }
 
 .pic{
-  height: 600px;
+  height: 200px;
   width: 400px;
-  object-fit: cover;
+  object-fit: contain;
   border: 1px solid black;
 }
+#start{color: pink; font-style:italic;font-family: cursive;}
+#end{color: pink;font-style:italic;font-family: cursive;}
+#middle{color: pink; font-style:italic;font-family: cursive;font-size: 30px}
 
-h2{
-  color: black;
-}
-
-#start{
-  text-align: left;
-}
-
-#end{
-  text-align: right;
-}
